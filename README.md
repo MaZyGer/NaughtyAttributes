@@ -1,6 +1,6 @@
 Orginal Repo: https://github.com/dbrizov/NaughtyAttributes
 
-Here I added more features. I already requested pulls, but to be sure I will describe what is new here.
+Here I added more features. I already requested pulls, but to be sure I will describe what is new here. For more information check orginal repo.
 
 # NaughtyAttributes
 NaughtyAttributes is an extension for the Unity Inspector.
